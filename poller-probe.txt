@@ -1,2 +1,2 @@
-push-sequence=2
-timestamp=2026-08-14T17:03:00+08:00
+push-sequence=marker
+timestamp=2026-08-14T17:12:00+08:00
