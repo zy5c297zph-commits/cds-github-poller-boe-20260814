@@ -1,2 +1,2 @@
-push-sequence=marker
-timestamp=2026-08-14T17:12:00+08:00
+push-sequence=controlled-1
+timestamp=2026-08-14T17:14:00+08:00
